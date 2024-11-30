@@ -1,4 +1,3 @@
-import egno
 import segno
 
 # Input text/URL
