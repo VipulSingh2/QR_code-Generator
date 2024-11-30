@@ -1,2 +1,2 @@
-segno ==1.6.1
-streamlit== 1.39.0
+segno==1.3.2
+streamlit==1.15.2
