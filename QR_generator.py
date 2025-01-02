@@ -25,7 +25,7 @@ if a:
     buffer.seek(0)
 
     # Display the QR code
-    st.image(buffer, caption='Generated QR Code', use_column_width=True)
+    st.image(buffer, caption='Generated QR Code', use_conatiner_width=True)
 
     # Provide download button
     st.download_button(
